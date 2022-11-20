@@ -3,7 +3,7 @@
     <title>My New Hugo Site</title>
     <link>https://darkcorner17375.github.io/</link>
     <description>This is my new Hugo FixIt site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+    <generator>Hugo -- gohugo.io</generator><language>zh-tw</language>
       <atom:link href="https://darkcorner17375.github.io/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
